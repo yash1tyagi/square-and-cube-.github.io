@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    border: 3px solid black;
+    text-align: center;
+    font-size: 45px;
+    font-weight: 1000;
+    background-color: black;
+    color: white;
+}
+.input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+.input input{
+    border: 2px solid black;
+    width: 217px;
+    height: 30px;
+    border-radius: 20px;
+    text-align: center;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.button button{
+    margin: 4px;
+    width: 70px;
+    height: 29px;
+    background-color: black;
+    color: white;
+    border-radius: 40px;
+}
+.answer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
